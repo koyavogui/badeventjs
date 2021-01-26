@@ -1,0 +1,12 @@
+body {
+    background-color: #fff9c4 ;
+}
+main{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+ .active{
+     border: none !important;
+ }
